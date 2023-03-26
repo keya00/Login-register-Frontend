@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-![image](https://user-images.githubusercontent.com/76809940/227768063-abba1bf2-1a72-445a-8bc1-6afcfc1812f5.png)
+<img width="1399" alt="Screenshot 2023-03-26 at 3 21 31 PM" src="https://user-images.githubusercontent.com/76809940/227768101-e267f5a5-6d18-4365-9ffd-1699844c21a2.png">
 
